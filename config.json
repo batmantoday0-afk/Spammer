@@ -6,7 +6,7 @@
         "SpamSpeed": 1500
     },
     "Deleting": {
-        "Delete": true,
+        "Delete": false,
         "DeleteSpeed": 1000
     },
     "debug": false
